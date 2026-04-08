@@ -10,6 +10,7 @@ Product selection
 Add to cart
 Checkout process
 Order completion validation
+
 🛠️ Technologies Used
 
 Java
@@ -26,18 +27,24 @@ Navigate to cart
 Proceed to checkout
 Enter user details
 Complete the order
+
 ✅ Validations (Assertions)
+
 Verify item is added to cart
 Verify navigation to checkout page
 Verify order completion message
+
 ▶️ How to Run
+
 Install Java (JDK 8 or above)
 Add Selenium dependencies
 Download and setup ChromeDriver
 Run the test1.java file
 newpack/
  └── test1.java
+ 
 📸 Expected Output
+
 Cart shows 1 item
 Checkout page loads correctly
 Order success message displayed:
