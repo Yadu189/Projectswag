@@ -11,10 +11,13 @@ Add to cart
 Checkout process
 Order completion validation
 🛠️ Technologies Used
+
 Java
 Selenium WebDriver
 ChromeDriver
+
 🚀 Test Scenario
+
 Open SauceDemo website
 Login with valid credentials
 Select a product
